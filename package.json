@@ -1,0 +1,14 @@
+{
+  "name": "docencia-docs",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/gitbook-cli/bin/gitbook.js serve",
+    "build": "node_modules/gitbook-cli/bin/gitbook.js build"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
