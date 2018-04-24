@@ -6,6 +6,6 @@ Al presionar el botón "Edit" de la parte superior derecha se activara el modo p
 * Seleccionar la opción como "Absent" o "Present" para los alumnos marcados.
 * Finalmente la asistencia quedara registrada al seleccionar una de las opciones.
 
-<img src="img/screens/massive-00.png" width="300"/>
-<img src="img/screens/massive-01.png" width="300"/>
-<img src="img/screens/massive-02.png" width="300"/>
+<img src="img/screens/massive-00.png" class="border" width="300"/>
+<img src="img/screens/massive-01.png" class="border" width="300"/>
+<img src="img/screens/massive-02.png" class="border" width="300"/>

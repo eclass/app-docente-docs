@@ -12,9 +12,9 @@ https://itunes.apple.com/cl/app/eclass-docente/id1375058749?l=en&mt=8
 
 
 # Android
-* Disponible para telefonos y tablets.
+* Disponible para teléfonos y tablets.
 * Requiere Android 4.4 o mayor
-* Es recomendable usar las version mas actual de sistema operativo.
+* Es recomendable usar las version mas actual del sistema operativo para un mejor rendimiento.
 
 <img src="img/playstore.png" width="140"/>
 

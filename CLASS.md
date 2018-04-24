@@ -6,8 +6,8 @@ Las acciones disponibles para esta vista son las siguientes:
 
 * Revisar alumnos cargados
 * Agregar nuevos alumnos
-* Registrar asistencia como austente o presente para cada alumno
+* Registrar asistencia como ausente o presente para cada alumno
 * Asignar asistencia de forma masiva
 * Subir la asistencia finalmente
 
-<img src="img/screens/class-00.png" width="300"/>
+<img src="img/screens/class-00.png" class="border" width="300"/>
