@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node_modules/gitbook-cli/bin/gitbook.js serve",
-    "build": "node_modules/gitbook-cli/bin/gitbook.js build"
+    "install": "node_modules/gitbook-cli/bin/gitbook.js install",
+    "build": "npm run install && node_modules/gitbook-cli/bin/gitbook.js build"
   },
   "license": "ISC",
   "dependencies": {
