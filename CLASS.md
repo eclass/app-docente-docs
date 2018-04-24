@@ -10,4 +10,4 @@ Las acciones disponibles para esta vista son las siguientes:
 * Asignar asistencia de forma masiva
 * Subir la asistencia finalmente
 
-<img src="img/screens/class-00.png" class="border" width="300"/>
+<img src="img/screens/class-00.jpg" class="border" width="300"/>
