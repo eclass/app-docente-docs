@@ -1,15 +1,10 @@
 {
-  "name": "docencia-docs",
-  "version": "0.1.0",
-  "description": "",
-  "main": "index.js",
+  "name": "docencia-mobile-docs",
   "scripts": {
-    "start": "node_modules/gitbook-cli/bin/gitbook.js serve",
-    "install": "node_modules/gitbook-cli/bin/gitbook.js install",
-    "build": "npm run install && node_modules/gitbook-cli/bin/gitbook.js build"
+    "start": "vuepress dev docs",
+    "build": "vuepress build docs"
   },
-  "license": "ISC",
-  "dependencies": {
-    "gitbook-cli": "^2.3.2"
+  "devDependencies": {
+    "vuepress": "^0.14.4"
   }
 }
