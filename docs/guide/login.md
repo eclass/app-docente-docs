@@ -3,8 +3,7 @@
 Luego de instalar la aplicación, el primer paso es ingresar los datos de usuario para iniciar sesión.
 
 1. **Seleccionar tipo de documento (RUT, CC o DNI).**
-(_Si es de tipo RUT ingresar de forma completa, incluido el dígito verificador._)
-2. **Ingresar el documento**
+2. **Ingresar el documento** (_Si es de tipo RUT ingresar de forma completa, incluido el dígito verificador._)
 3. **Ingresar contraseña personal**
 4. **Presionar el botón login para iniciar sesión.**
 
