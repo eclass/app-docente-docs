@@ -1,10 +1,14 @@
 {
   "name": "docencia-mobile-docs",
   "scripts": {
-    "start": "vuepress dev docs",
-    "build": "vuepress build docs"
+    "start": "vuepress dev docs --temp .temp",
+    "build": "vuepress build docs",
+    "show-help": "vuepress --help"
   },
   "devDependencies": {
-    "vuepress": "^0.14.4"
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.30",
+    "@vuepress/plugin-i18n-ui": "^1.0.0-alpha.30",
+    "@vuepress/plugin-medium-zoom": "^1.0.0-alpha.30",
+    "vuepress": "^1.0.0-alpha.30"
   }
 }

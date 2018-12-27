@@ -1,29 +1,64 @@
-module.exports = {
-  title: 'eClass Docencia',
-  description: 'Guía para el uso de aplicación eClass Docencia',
+module.exports = ctx => ({
+  locales: {
+    '/': {
+      lang: 'es-ES',
+      title: 'eClass Docencia',
+      description: 'Aplicación para docentes'
+    },
+    '/en/': {
+      lang: 'en-US',
+      title: 'eClass Docencia',
+      description: 'Application for teachers'
+    }
+  },
   head: [
-    ['link', { rel: 'icon', href: '/icon.png' }]
+    ['link', { rel: 'icon', href: `/icon.png` }]
   ],
   themeConfig: {
-    nav: [
-      { text: 'Guía', link: '/guide/features' },
-      { text: 'Android', link: 'https://play.google.com/store/apps/details?id=com.eclass.docente' },
-      { text: 'iOS', link: 'https://itunes.apple.com/cl/app/eclass-docencia/id1375058749?l=es&mt=8' },
-    ],
-    sidebar: [
-      {
-        title: 'Guía',
-        collapsable: false,
-        children: [
-          '/guide/features',
-          '/guide/install',
-          '/guide/login',
-          '/guide/home',
-          '/guide/class',
-          '/guide/confirmed',
-        ]
+    editLinks: false,
+    locales: {
+      '/': {
+        label: 'Español',
+        selectText: 'Idiomas',
+        editLinkText: '',
+        lastUpdated: 'Última actualización',
+        nav: require('./nav/es'),
+        sidebar: {
+          '/guide/': getGuideSidebar('Guía')
+        }
+      },
+      '/en/': {
+        label: 'English',
+        selectText: 'Languages',
+        editLinkText: '',
+        lastUpdated: 'Last update',
+        nav: require('./nav/en'),
+        sidebar: {
+          '/en/guide/': getGuideSidebar('Guide')
+        }
       }
+    }
+  },
+  plugins: [
+    ['@vuepress/i18n-ui',!ctx.isProd],
+    ['@vuepress/back-to-top', true],
+    ['@vuepress/medium-zoom', true]
+  ]
+})
 
-    ]
-  }
+const getGuideSidebar = groupA => {
+  return [
+    {
+      title: groupA,
+      collapsable: false,
+      children: [
+        '',
+        'install',
+        'login',
+        'home',
+        'class',
+        'confirmed',
+      ]
+    }
+  ]
 }

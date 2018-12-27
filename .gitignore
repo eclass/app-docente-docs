@@ -6,3 +6,4 @@ yarn.lock
 dist
 .vscode
 docs/.vuepress/dist
+.temp
