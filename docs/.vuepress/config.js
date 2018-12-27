@@ -1,5 +1,4 @@
 module.exports = ctx => ({
-  dest: '../../vuepress',
   locales: {
     '/': {
       lang: 'es-ES',

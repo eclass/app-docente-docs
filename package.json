@@ -2,7 +2,7 @@
   "name": "docencia-mobile-docs",
   "scripts": {
     "start": "vuepress dev docs --temp .temp",
-    "build": "vuepress build docs --temp .temp",
+    "build": "vuepress build docs",
     "show-help": "vuepress --help"
   },
   "devDependencies": {
