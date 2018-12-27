@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /img-welcome.png
-actionText: Comenzar →
-actionLink: /guide/
+actionText: Start →
+actionLink: /en/guide/
 footer: eClass | Copyright © 2018
 ---
 

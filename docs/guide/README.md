@@ -1,7 +1,9 @@
-# Características
+# Introducción
 
 La aplicación Docencia de eClass permite manejar la asistencia de las clases asignadas a los docentes. Además logra trabajar de forma _offline_, ya que los cambios y datos quedan almacenados
 todo el tiempo en el dispositivo instalado.
+
+## Características
 
 Las principales características que ofrece la aplicación son las siguientes:
 

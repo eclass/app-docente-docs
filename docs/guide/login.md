@@ -7,7 +7,9 @@ Luego de instalar la aplicación, el primer paso es ingresar los datos de usuari
 3. **Ingresar contraseña personal**
 4. **Presionar el botón login para iniciar sesión.**
 
-Se mostrará un mensaje de error si los datos del usuarios son incorrectos o si hay problemas de conexión.
+<img src="/guide/img-guide-07.png" width="300"/>
+<img src="/guide/img-guide-08.png" width="300"/>
 
-<img src="./../images/img-guide-07.png" width="300"/>
-<img src="./../images/img-guide-08.png" width="300"/>
+::: warning Atención
+Se mostrará un mensaje de error si los datos del usuarios son incorrectos o si hay problemas de conexión.
+:::
