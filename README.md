@@ -1,8 +1,15 @@
-# Bienvenido
+# Help docs for eClass docente app
 
-Guía para el uso de la aplicación eClass Docencia.
+## Features
 
-<!-- [<img src="img/appstore.png" width="140"/>](https://itunes.apple.com/cl/app/eclass-docente/id1375058749?l=en&mt=8)
-[<img src="img/playstore.png" width="140"/>](https://play.google.com/store/apps/details?id=com.eclass.docente) -->
+* SPA
+* VuePress
+* i18n
 
-<img src="./images/img-welcome.jpg" />
+## Install
+
+`yarn`
+
+## Dev server
+
+`yarn start`
