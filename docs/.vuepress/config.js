@@ -3,12 +3,12 @@ module.exports = ctx => ({
     '/': {
       lang: 'es-ES',
       title: 'eClass Docencia',
-      description: 'Aplicación para docentes'
+      description: 'Aplicación móvil para docentes | iOS/Android'
     },
     '/en/': {
       lang: 'en-US',
       title: 'eClass Docencia',
-      description: 'Application for teachers'
+      description: 'Mobile application for teachers | iOS/Android'
     }
   },
   head: [
