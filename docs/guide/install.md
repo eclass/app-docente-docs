@@ -21,3 +21,10 @@ directamente a través de los siguientes enlaces.
 <img src="/guide/ico-googleplay.png" width="140"/>
 
 [https://play.google.com/store/apps/details?id=com.eclass.docente](https://play.google.com/store/apps/details?id=com.eclass.docente)
+
+## Actualizaciones
+
+**Es muy recomendable mantener actualizada la aplicación en la ultima versión disponible desde cada store.**
+
+Si se realiza una actualización, es recomendable cerrar sesión antes y aplicar la actualización correspondiente.
+En caso de algún error inesperado o si la aplicación no inicia correctamente, desinstalar primero y luego instalar la ultima versiíon disponible.
