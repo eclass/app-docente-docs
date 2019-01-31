@@ -3,7 +3,7 @@ home: true
 heroImage: /img-welcome.png
 actionText: Start →
 actionLink: /en/guide/
-footer: eClass | Copyright © 2018
+footer: eClass | Copyright © 2019
 ---
 
 <!-- <div class="features">
