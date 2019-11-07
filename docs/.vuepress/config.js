@@ -3,12 +3,12 @@ module.exports = ctx => ({
     '/': {
       lang: 'es-ES',
       title: 'eClass Docencia',
-      description: 'Aplicación móvil para docentes | iOS/Android'
+      description: 'Aplicación móvil para docentes'
     },
     '/en/': {
       lang: 'en-US',
       title: 'eClass Docencia',
-      description: 'Mobile application for teachers | iOS/Android'
+      description: 'Mobile application for teachers'
     }
   },
   head: [
@@ -56,8 +56,9 @@ const getGuideSidebar = groupA => {
         'install',
         'login',
         'home',
+        'attendance',
         'class',
-        'confirmed',
+        'evaluations'
       ]
     }
   ]
