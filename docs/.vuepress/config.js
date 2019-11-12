@@ -58,7 +58,8 @@ const getGuideSidebar = groupA => {
         'home',
         'attendance',
         'class',
-        'evaluations'
+        'evaluations',
+        'evaluation'
       ]
     }
   ]

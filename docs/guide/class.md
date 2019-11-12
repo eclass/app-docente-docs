@@ -1,4 +1,4 @@
-# Asistencia - Clase
+# Clase
 
 <img src="/guide/img-guide-34.jpg" width="600" class="thumb"/>
 

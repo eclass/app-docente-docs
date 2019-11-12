@@ -1,18 +1,30 @@
 # Introduction
 
-The eClass Docencia App allows teachers to keep track of the attendance of their assigned classes. This can be done offline, as all information and changes made will be saved and uploaded once the device is connected to the internet.
+The application **eClass Docencia** allows to manage the attendance and evaluations of the classes assigned to the teachers.
+
+An important feature is that all data is stored locally on the device, allowing _offline_ to work, to subsequently synchronize the data when there is an available internet connection.
 
 ## Features
 
-The main features of the application are the following:
+The main features offered by the application are the following:
 
-* Log in for teachers by means of a username and password
-* View a list of all assigned classes
-* Advanced search for classes, using the appropriate filters
-* Synchronise classes
-* Register the attendance of all students assigned to the class
-* Record each student’s signature
+* Login for users with teaching profile by username and password
+* List and review all classes and assessments assigned to the teacher
+* Advanced search using dynamic filters
+* Synchronization
+
+### Attendance
+
+* Record the attendance of students assigned to a class
+* Enter the signature for each student
 * Add new students to the class
-* Record attendance for an entire group
-* Upload attendance for the whole class or for part of the class
-* View classes that have already been uploaded.
+* Generate assistance in bulk
+* Increase student attendance partially or completely
+* Consult classes that have been previously uploaded
+
+### Evaluations
+
+* Record qualifications to students assigned to a class
+* Entry of grades for different evaluation scales
+* Upload the evaluation partially or completely
+* Review evaluations that have been previously uploaded

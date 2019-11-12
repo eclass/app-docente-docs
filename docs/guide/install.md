@@ -28,5 +28,5 @@ Revisar en cada store correspondiente en forma periodica si existe alguna actual
 En caso de algún error posterior a una actualización o si la aplicación no inicia correctamente, desinstalar y luego instalar la ultima versión disponible.
 
 ::: warning Atención
-Es muy recomendable mantener actualizada la aplicación en a la ultima versión disponible.
+Es muy recomendable mantener actualizada la aplicación a la ultima versión disponible.
 :::

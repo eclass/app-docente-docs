@@ -1,64 +1,85 @@
 # Class
 
-Upon opening a class, you will see the essential information (such as the status of the class and attendance and general information).
+<img src="/guide/img-guide-34.jpg" width="600" class="thumb"/>
 
-When attendance has been uploaded, information such as the number of present or absent students and the total number of students in the class will be shown.
+Upon entering a class you can view the **essential information of the class (1)** at the top;
+next to the class status or **attendance information (2)**.
 
-<img src="/guide/img-guide-01.png" width="300"/>
+If the class contains students with attendance, information such as the number of people present, absent
+and the total of students.
 
-## Register attendance
+To filter students it is possible to use the **search engine (3)**, entering names or surnames.
 
-From the list of students, it’s possible to take attendance for each student manually or altogether (en masse).
-To mark a student absent, swipe from left to right and click on the red button that says “absent.” Similarly, to mark a student present, swipe from right to left and click the button that says “present.”
+<img src="/guide/img-guide-37.png" width="300" class="thumb"/>
 
-### Signature to mark attendance
+## Register assistance
 
-After selecting “present,” a screen will come up where a student’s signature can be recorded. They student should draw their signature on this screen and then press the “Confirm signature” button.
+Throughout the list of students it is possible to register attendance for each of them manually or massively.
 
-<img src="/guide/img-guide-09.png" width="300"/>
+To mark a student as absent it is necessary to slide from left to right and press
+on the red button _ausente_.
+In the same way to mark as present slide from right to left over the students and
+mark on the _presente_ button.
+
+### Sign as present
+
+After pressing on the present button the screen to enter a signature will open, where it is necessary
+draw on the screen to register the student's signature.
+Finally press the button _Confirmar firma_.
+
+<img src="/guide/img-guide-38.png" width="300" class="thumb"/>
+<img src="/guide/img-guide-36.png" width="300" class="thumb"/>
 
 ## Add students
 
-To add new students to the class, press the button seen in the image below:
+To add new students to the class click on the icon as shown in the following image.
 
-<img src="/guide/img-guide-11.jpg" width="300"/>
+<img src="/guide/img-guide-39.jpg" width="300" class="thumb"/>
 
-The “Add students” screen will then appear, where it will be posible to add students to the list. Press the lower button “Add student” to proceed.
+Then the _Agregar alumno_ screen will open where you can select the students to add them to the list of
+class students. Press the lower button _Agregar alumnos_ to proceed.
 
-<img src="/guide/img-guide-13.png" width="300"/>
+<img src="/guide/img-guide-41.png" width="300" class="thumb"/>
 
-## Massive attendance
+## Mass assistance
 
-Group attendance allows you to upload attendance for a group all at once. To do so, click on the icon shown in the image below:
+Massive assistance allows a more selective and practical registration.
+To go to this screen select the icon as shown in the following image.
 
-<img src="/guide/img-guide-12.jpg" width="300"/>
+<img src="/guide/img-guide-40.jpg" width="300" class="thumb"/>
 
-Once you’ve opened the screen, tick each student on the list. Then, assign them an attendance statues (either present or absent).
+Once inside this screen mark each student in the list.
+Then assign the status with the buttons: **Presente o Ausente**.
 
-To finish, click the “Save” button.
+To finish press on the _Guardar_ button.
 
-<img src="/guide/img-guide-14.png" width="300"/>
+<img src="/guide/img-guide-42.png" width="300" class="thumb"/>
 
 ::: tip
-When taking group attendance, signatures will not be necessary.
+In mass assistance for the present state, it is not necessary to indicate a different signature
+of the manual assistance record.
 :::
 
 ## Upload class
 
-Once you’ve taken the attendance, it will be possible to upload the changes and synchronize them with the cloud.
+After having assigned at least one student attendance record, it is possible to upload the changes
+to synchronize them with the cloud.
 
-<img src="/guide/img-guide-15.jpg" width="300"/>
+<img src="/guide/img-guide-43.jpg" width="300" class="thumb"/>
 
-To do this, click on the “Upload Class” button. Then wait for the upload to finish.
+For this press on the button _Subir clase_. Then wait for the upload to complete.
 
-<img src="/guide/img-guide-16.png" width="300"/>
+<img src="/guide/img-guide-44.png" width="300" class="thumb"/>
 
-If there are still students without attendance, the status of the class will be marked as Incomplete Attendance.
+If there are still students without assistance, the class will remain with the state: **Asistencia incompleta**. In this way any
+upload made would be _parcial_.
 
-The class will be marked as having Complete Attendance, only if all students have been marked as present or absent.
+To upload the complete class with all attendance records it is necessary to mark all students in advance.
 
-<img src="/guide/img-guide-17.png" width="300"/>
+<img src="/guide/img-guide-45.png" width="300" class="thumb"/>
 
-::: warning Atention
-An “Upload successful!” message will pop up when the class has been successfully uploaded to the cloud.
+Once the upload is complete, a success message will appear as in the previous image.
+
+::: tip
+Once a class with full attendance is uploaded, it will disappear from the main list and will go to view **Clases subidas**.
 :::
