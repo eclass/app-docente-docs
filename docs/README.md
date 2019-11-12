@@ -6,17 +6,23 @@ actionLink: /guide/
 footer: eClass | Copyright © 2019
 ---
 
-<!-- <div class="features">
+<div class="features">
   <div class="feature">
-    <h2>Simplicity First</h2>
-    <p>Minimal setup with markdown-centered project structure helps you focus on writing.</p>
+    <h2>Offline</h2>
+    <p>
+      Puedes trabajar offline ya que los datos quedarán guardados. Cuando te conectes a una red podrás subir lo realizado fuera de línea.
+    </p>
   </div>
   <div class="feature">
-    <h2>Vue-Powered</h2>
-    <p>Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.</p>
+    <h2>Asistencia</h2>
+    <p>
+      Revisa y gestiona la asistencia de tus clases, ingresando de forma individual o de forma masiva.
+    </p>
   </div>
   <div class="feature">
-    <h2>Performant</h2>
-    <p>VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.</p>
+    <h2>Evaluaciones</h2>
+    <p>
+      Ingresa las notas para tus distintas evaluaciones, permitiendo filtrar e ingresar notas con diferentes escalas.
+    </p>
   </div>
-</div> -->
+</div>

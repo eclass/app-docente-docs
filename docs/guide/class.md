@@ -1,12 +1,16 @@
 # Clase
 
-Al ingresar a una clase se podrá visualizar la información esencial en la parte superior;
-como el estado de la clase, información básica y el estado de la asistencia.
+<img src="/guide/img-guide-34.jpg" width="600" class="thumb"/>
 
-Cuando la clase contiene asistencia se mostrará información como el número de presentes, ausentes
-y el total de alumnos de la clase.
+Al ingresar a una clase se podrá visualizar la **información esencial de la clase (1)** en la parte superior;
+junto al estado de la clase o **información de asistencia (2)**.
 
-<img src="/guide/img-guide-01.png" width="300"/>
+Si la clase contiene alumnos con asistencia se mostrará información como el número de presentes, ausentes
+y el total de alumnos.
+
+Para filtrar alumnos es posible utilizar el **buscador (3)**, ingresando nombres o apellidos.
+
+<img src="/guide/img-guide-37.png" width="300" class="thumb"/>
 
 ## Registrar asistencia
 
@@ -23,56 +27,59 @@ Luego de presionar sobre el botón presente se abrirá la pantalla para ingresar
 dibujar sobre la pantalla para registrar la firma del alumno.
 Para finalizar presionar el botón _Confirmar firma_.
 
-<img src="/guide/img-guide-09.png" width="300"/>
+<img src="/guide/img-guide-38.png" width="300" class="thumb"/>
+<img src="/guide/img-guide-36.png" width="300" class="thumb"/>
 
 ## Agregar alumnos
 
-Para agregar nuevos alumnos a la clase presionar sobre el icono como muestra en la siguiente imagen:
+Para agregar nuevos alumnos a la clase presionar sobre el icono como muestra en la siguiente imagen.
 
-<img src="/guide/img-guide-11.jpg" width="300"/>
+<img src="/guide/img-guide-39.jpg" width="300" class="thumb"/>
 
 Luego se abrirá la pantalla de _Agregar alumno_ donde es posible seleccionar los alumnos para agregarlos a la lista de
 alumnos de la clase. Presionar el botón inferior _Agregar alumnos_ para proceder.
 
-<img src="/guide/img-guide-13.png" width="300"/>
+<img src="/guide/img-guide-41.png" width="300" class="thumb"/>
 
 ## Asistencia masiva
 
 La asistencia masiva permite realizar un registro de forma mas selectiva y práctica.
-Para ir a esta pantalla seleccionar el icono como muestra la siguiente imagen:
+Para ir a esta pantalla seleccionar el icono como muestra la siguiente imagen.
 
-<img src="/guide/img-guide-12.jpg" width="300"/>
+<img src="/guide/img-guide-40.jpg" width="300" class="thumb"/>
 
 Una vez dentro de esta pantalla marcar cada alumno dentro de la lista.
 Posteriormente asignar el estado con los botones: **Presente o Ausente**.
 
 Para finalizar presionar sobre el botón _Guardar_.
 
-<img src="/guide/img-guide-14.png" width="300"/>
+<img src="/guide/img-guide-42.png" width="300" class="thumb"/>
 
-> Nota: La asistencia masiva para el estado presente, no exige indicar una firma como el caso
+::: tip
+En la asistencia masiva para el estado presente, no es necesario indicar una firma a diferencia
 del registro de asistencia manual.
+:::
 
 ## Subir clase
 
 Luego de haber asignado al menos un registro de asistencia de los alumnos, es posible subir los cambios
 para sincronizarlos con la nube.
 
-<img src="/guide/img-guide-15.jpg" width="300"/>
+<img src="/guide/img-guide-43.jpg" width="300" class="thumb"/>
 
 Para esto presionar sobre el botón _Subir clase_. A continuación esperar que se complete la subida.
 
-<img src="/guide/img-guide-16.png" width="300"/>
+<img src="/guide/img-guide-44.png" width="300" class="thumb"/>
 
 Si aun quedan alumnos sin asistencia la clase quedará con el estado: **Asistencia incompleta**. De esta forma cualquier
 subida que se realice seria _parcial_.
 
 Para subir la clase completa con todos los registros de asistencia es necesario marcar previamente todos los alumnos.
 
-<img src="/guide/img-guide-17.png" width="300"/>
+<img src="/guide/img-guide-45.png" width="300" class="thumb"/>
 
-Una vez completada la subida aparecerá un mensaje de éxito. Si la subida de la asistencia fue completa aparecerá un mensaje como en la imagen anterior.
+Una vez completada la subida aparecerá un mensaje de éxito como en la imagen anterior.
 
-::: warning Atención
-Cabe destacar que para la subida de una clase con asistencia completa una ver terminada la subida, esta desaparecerá de la lista principal y pasara a la pantalla **Clases subidas**.
+::: tip
+Una vez subida una clase con asistencia completa esta desaparecerá de la lista principal y pasara a la vista **Clases subidas**.
 :::

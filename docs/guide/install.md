@@ -2,7 +2,7 @@
 
 La aplicación se encuentra disponible para sistemas iOS y Android, tanto para móviles y tablets.
 
-Instalar la aplicación buscando en las stores de los sistemas por el término _eClass Docencia_ o
+Instalar la aplicación buscando en las stores de los sistemas por el término **_eClass Docencia_** o
 directamente a través de los siguientes enlaces.
 
 ## Requisitos
@@ -23,8 +23,10 @@ directamente a través de los siguientes enlaces.
 [https://play.google.com/store/apps/details?id=com.eclass.docente](https://play.google.com/store/apps/details?id=com.eclass.docente)
 
 ## Actualizaciones
+Revisar en cada store correspondiente en forma periodica si existe alguna actualización, ya que comunmente se agregan nuevas funcionalidades y/o correcciones que afecten el funcionamiento de la aplicación.
 
-**Es muy recomendable mantener actualizada la aplicación en la ultima versión disponible desde cada store.**
+En caso de algún error posterior a una actualización o si la aplicación no inicia correctamente, desinstalar y luego instalar la ultima versión disponible.
 
-Si se realiza una actualización, es recomendable cerrar sesión antes y aplicar la actualización correspondiente.
-En caso de algún error inesperado o si la aplicación no inicia correctamente, desinstalar primero y luego instalar la ultima versiíon disponible.
+::: warning Atención
+Es muy recomendable mantener actualizada la aplicación a la ultima versión disponible.
+:::
