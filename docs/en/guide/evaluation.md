@@ -18,6 +18,15 @@ Throughout the list of students it is possible to enter a note for each of them.
 
 This window has information on the scale of qualifications to be used as the minimum, maximum grade and approval percentage.
 
+::: tip Rubrics
+From version **2.3.0** it is possible to attach images as rubrics in the same dialog box when entering a qualification. For "english courses" it is mandatory to first enter a rubric and then a qualification.
+:::
+
+<img src="/guide/img-guide-61.png" width="300" class="thumb"/>
+<img src="/guide/img-guide-62.png" width="300" class="thumb"/>
+
+To attach a rubric, click on the "Subir imagen" button and then wait for the dialogue "Tomar foto" or "Seleccionar desde librería". This image can be edited at any time until the evaluation is fully uploaded.
+
 ## Upload evaluation
 
 After having assigned at least one grade for students, it is possible to upload the changes

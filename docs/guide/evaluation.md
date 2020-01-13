@@ -18,6 +18,15 @@ A lo largo de la lista de alumnos es posible ingresar una nota para cada uno de 
 
 Esta ventana posee información sobre la escala de notas a utilizar como la nota mínima, máxima y porcentaje de aprobación.
 
+::: tip Rúbricas
+Desde la versión **2.3.0** es posible adjuntar imágenes a modo de rúbricas en el mismo cuadro de diálogo al momento de ingresar una calificación. Para los cursos de inglés es obligación primero ingresar una rúbrica y luego una calificación.
+:::
+
+<img src="/guide/img-guide-61.png" width="300" class="thumb"/>
+<img src="/guide/img-guide-62.png" width="300" class="thumb"/>
+
+Para adjuntar una rúbrica presionar sobre el botón _Subir imagen_ para luego esperar el diálogo de: "Tomar foto" o "Seleccionar desde librería". Esta imagen puede ser editada en cualquier momento hasta que sea subida la evaluación por completo.
+
 ## Subir evaluación
 
 Luego de haber asignado al menos una nota para los alumnos, es posible subir los cambios

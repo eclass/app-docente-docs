@@ -26,5 +26,6 @@ The main features offered by the application are the following:
 
 * Record qualifications to students assigned to a class
 * Entry of grades for different evaluation scales
+* Attach images as rubrics for evaluations
 * Upload the evaluation partially or completely
 * Review evaluations that have been previously uploaded

@@ -22,7 +22,7 @@ footer: eClass | Copyright © 2019
   <div class="feature">
     <h2>Evaluaciones</h2>
     <p>
-      Ingresa las notas para tus distintas evaluaciones, permitiendo filtrar e ingresar notas con diferentes escalas.
+      Ingresa las calificaciones para tus distintas evaluaciones o adjuntar imágenes como rúbricas.
     </p>
   </div>
 </div>

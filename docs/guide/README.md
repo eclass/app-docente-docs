@@ -26,5 +26,6 @@ Las principales características que ofrece la aplicación son las siguientes:
 
 * Registrar las notas de evaluaciones a los alumnos asignados a una clase
 * Ingreso de notas para distintas escalas de evaluación
+* Adjuntar imágenes como rúbricas para las evaluaciones
 * Subir las notas de evaluaciones en forma parcial o completa
 * Consultar evaluaciones que han sido previamente subidas

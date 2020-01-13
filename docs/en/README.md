@@ -22,7 +22,7 @@ footer: eClass | Copyright © 2019
   <div class="feature">
     <h2>Evaluations</h2>
     <p>
-      Enter qualifications for your different evaluations, allowing you to filter and enter qualifications with different scales.
+      Enter qualifications for your different evaluations or attach images as rubrics.
     </p>
   </div>
 </div>
