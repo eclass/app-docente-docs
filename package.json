@@ -6,9 +6,9 @@
     "show-help": "vuepress --help"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "1.2.0",
+    "@vuepress/plugin-back-to-top": "1.9.10",
     "@vuepress/plugin-i18n-ui": "1.0.0-alpha.44",
-    "@vuepress/plugin-medium-zoom": "1.2.0",
-    "vuepress": "1.2.0"
+    "@vuepress/plugin-medium-zoom": "1.9.10",
+    "vuepress": "1.9.10"
   }
 }
